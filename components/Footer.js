@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         {/* Copyright Center */}
         <div className='bg-black text-center'>
-            <p>Copyright@2023 FoodonWheels</p>
+            <p>Copyright@2023 FoodOnWheels</p>
 
         </div>
     </div>

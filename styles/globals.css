@@ -243,7 +243,7 @@
   box-shadow: rgba(60, 64, 67, .3) 0 1px 3px 0, rgba(60, 64, 67, .15) 0 4px 8px 3px;
 }
 .truck-card {
-    width: 25rem;
+    max-width: 25rem;
     height: 15rem;
     border: 1px  black;
     border-radius: 1rem;
@@ -256,3 +256,8 @@
     transform: perspective(1000px) rotateY(20deg);
     cursor: pointer;
   }
+
+.containerStyle{
+    width: 80%;
+    height: 80vh;
+  };
